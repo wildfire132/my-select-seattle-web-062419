@@ -6,4 +6,5 @@ def my_select(collection)
       selection << yield(array[i])
     end
   end 
+  selection
 end
