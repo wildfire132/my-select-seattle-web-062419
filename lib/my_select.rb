@@ -1,4 +1,7 @@
 def my_select(collection)
- 
- yield(array[i])
+ i = 0
+ selection = []
+  while i < collection.length
+    if 
+      yield(array[i])
 end
